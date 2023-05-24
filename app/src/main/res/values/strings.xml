@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WhatsApp_Clone_Android</string>
+    <string name="signup">SignUp For Whatsapp</string>
+    <string name="signin">SignIn For Whatsapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="backArrowChats">This is the back Arrow</string>
+    <string name="callsChats">This is the calls option</string>
+    <string name="videoCallsChats">This is the video calls option</string>
+    <string name="menuChats">This is the menu option in chats</string>
+    <string name="sendMessage">This is the send message option</string>
+
+</resources>
